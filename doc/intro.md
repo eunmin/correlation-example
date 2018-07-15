@@ -1,0 +1,3 @@
+# Introduction to correlation-example
+
+TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
